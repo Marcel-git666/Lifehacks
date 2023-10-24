@@ -11,6 +11,19 @@
 		1F14079A2ABCB321003734C7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1407992ABCB321003734C7 /* ContentView.swift */; };
 		1F14079C2ABCB322003734C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F14079B2ABCB322003734C7 /* Assets.xcassets */; };
 		1F14079F2ABCB322003734C7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F14079E2ABCB322003734C7 /* Preview Assets.xcassets */; };
+		1F1407A62ABCB32E003734C7 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1407A52ABCB32E003734C7 /* User.swift */; };
+		1F1407A82ABCB334003734C7 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1407A72ABCB334003734C7 /* Question.swift */; };
+		1F1407AA2ABDCC6F003734C7 /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1407A92ABDCC6F003734C7 /* QuestionView.swift */; };
+		1F1407AC2ABDE71D003734C7 /* questions.json in Resources */ = {isa = PBXBuildFile; fileRef = 1F1407AB2ABDE71D003734C7 /* questions.json */; };
+		1F1407AE2AC1D684003734C7 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1407AD2AC1D684003734C7 /* Color.swift */; };
+		1FEC1CF62AD81CF000672B85 /* EditProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEC1CF52AD81CEF00672B85 /* EditProfileView.swift */; };
+		1FEC1CF82AD9B73800672B85 /* avatar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1FEC1CF72AD9B73800672B85 /* avatar.jpg */; };
+		1FEC1CFA2ADD819000672B85 /* TopQuestionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEC1CF92ADD819000672B85 /* TopQuestionsView.swift */; };
+		1FEC1CFC2ADD81FE00672B85 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEC1CFB2ADD81FE00672B85 /* Extensions.swift */; };
+		1FEC1CFE2ADF065300672B85 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEC1CFD2ADF065300672B85 /* Theme.swift */; };
+		1FEC1D002ADF070000672B85 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEC1CFF2ADF070000672B85 /* SettingsView.swift */; };
+		1FEC1D022ADF1E2800672B85 /* Answer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEC1D012ADF1E2800672B85 /* Answer.swift */; };
+		1FEC1D042ADFD2A900672B85 /* QuestionView.Voting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FEC1D032ADFD2A900672B85 /* QuestionView.Voting.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,19 @@
 		1F1407992ABCB321003734C7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1F14079B2ABCB322003734C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F14079E2ABCB322003734C7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1F1407A52ABCB32E003734C7 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		1F1407A72ABCB334003734C7 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		1F1407A92ABDCC6F003734C7 /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
+		1F1407AB2ABDE71D003734C7 /* questions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = questions.json; sourceTree = "<group>"; };
+		1F1407AD2AC1D684003734C7 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		1FEC1CF52AD81CEF00672B85 /* EditProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileView.swift; sourceTree = "<group>"; };
+		1FEC1CF72AD9B73800672B85 /* avatar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = avatar.jpg; sourceTree = "<group>"; };
+		1FEC1CF92ADD819000672B85 /* TopQuestionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopQuestionsView.swift; sourceTree = "<group>"; };
+		1FEC1CFB2ADD81FE00672B85 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		1FEC1CFD2ADF065300672B85 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		1FEC1CFF2ADF070000672B85 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		1FEC1D012ADF1E2800672B85 /* Answer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answer.swift; sourceTree = "<group>"; };
+		1FEC1D032ADFD2A900672B85 /* QuestionView.Voting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.Voting.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +79,17 @@
 			children = (
 				1F1407972ABCB321003734C7 /* LifehacksApp.swift */,
 				1F1407992ABCB321003734C7 /* ContentView.swift */,
+				1F1407A52ABCB32E003734C7 /* User.swift */,
+				1F1407A92ABDCC6F003734C7 /* QuestionView.swift */,
+				1FEC1D032ADFD2A900672B85 /* QuestionView.Voting.swift */,
+				1FEC1CFB2ADD81FE00672B85 /* Extensions.swift */,
+				1FEC1CF52AD81CEF00672B85 /* EditProfileView.swift */,
+				1FEC1CF92ADD819000672B85 /* TopQuestionsView.swift */,
+				1FEC1CFD2ADF065300672B85 /* Theme.swift */,
+				1FEC1CFF2ADF070000672B85 /* SettingsView.swift */,
+				1FEC1D012ADF1E2800672B85 /* Answer.swift */,
+				1F1407AD2AC1D684003734C7 /* Color.swift */,
+				1F1407A72ABCB334003734C7 /* Question.swift */,
 				1F14079B2ABCB322003734C7 /* Assets.xcassets */,
 				1F14079D2ABCB322003734C7 /* Preview Content */,
 			);
@@ -63,6 +100,8 @@
 			isa = PBXGroup;
 			children = (
 				1F14079E2ABCB322003734C7 /* Preview Assets.xcassets */,
+				1FEC1CF72AD9B73800672B85 /* avatar.jpg */,
+				1F1407AB2ABDE71D003734C7 /* questions.json */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -95,7 +134,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1430;
-				LastUpgradeCheck = 1430;
+				LastUpgradeCheck = 1500;
 				TargetAttributes = {
 					1F1407932ABCB321003734C7 = {
 						CreatedOnToolsVersion = 14.3.1;
@@ -125,7 +164,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F1407AC2ABDE71D003734C7 /* questions.json in Resources */,
 				1F14079F2ABCB322003734C7 /* Preview Assets.xcassets in Resources */,
+				1FEC1CF82AD9B73800672B85 /* avatar.jpg in Resources */,
 				1F14079C2ABCB322003734C7 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +178,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FEC1CF62AD81CF000672B85 /* EditProfileView.swift in Sources */,
+				1FEC1CFC2ADD81FE00672B85 /* Extensions.swift in Sources */,
+				1F1407AA2ABDCC6F003734C7 /* QuestionView.swift in Sources */,
+				1FEC1D022ADF1E2800672B85 /* Answer.swift in Sources */,
+				1FEC1CFA2ADD819000672B85 /* TopQuestionsView.swift in Sources */,
+				1F1407AE2AC1D684003734C7 /* Color.swift in Sources */,
 				1F14079A2ABCB321003734C7 /* ContentView.swift in Sources */,
+				1F1407A82ABCB334003734C7 /* Question.swift in Sources */,
+				1FEC1CFE2ADF065300672B85 /* Theme.swift in Sources */,
 				1F1407982ABCB321003734C7 /* LifehacksApp.swift in Sources */,
+				1F1407A62ABCB32E003734C7 /* User.swift in Sources */,
+				1FEC1D002ADF070000672B85 /* SettingsView.swift in Sources */,
+				1FEC1D042ADFD2A900672B85 /* QuestionView.Voting.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,6 +233,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -241,6 +294,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
